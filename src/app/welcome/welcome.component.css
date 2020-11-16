@@ -1,0 +1,43 @@
+.wel{
+    color:palevioletred;
+    text-align:center;
+    font-size: 25px;
+    padding-left:100px;
+    text-underline-position: below;
+
+}
+
+.welcome{
+    background-image: url("../../assets/watercolor.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 800px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+   }
+
+
+   .login ul{
+       list-style-type: none;
+       padding-top: 200px;
+       color:black;
+     
+   }
+
+   .nav-list:hover{
+       color:palevioletred;
+       cursor: pointer;
+       background-color: blanchedalmond;
+       -moz-border-radius: 90%;
+       -webkit-border-radius: 70%;
+        border-radius: 50%;
+        margin:auto;
+   }
+   .nav-list{
+    text-decoration: none;
+    margin-top:40px; 
+   }
+
+
+  
+

@@ -1,0 +1,92 @@
+img{
+    width:90px;
+    height:80px;
+    padding-left:70px;
+}
+.chips, .biscuit,.bake,.sauce,.mate{
+    padding-left:20em;
+    margin-top:-70px;
+}
+
+.potato,.cook,.cookie,.soup,.nestle{
+
+    padding-left:39em;
+    margin-top:-45px;
+}
+
+.laysquanti,.oreoquanti,.bakequanti,.saucequanti,.nestlequanti{
+
+    padding-left:54em;
+    margin-top:-33px;
+    
+
+}
+.btn{
+    width:50px;
+    height:30px;
+    border-radius: 5px 5px 5px 5px; 
+   
+}
+
+.remove1,.remove2,.remove3,.remove4,.remove5{
+
+    padding-left:63em;
+    margin-top:-32px;
+    font-weight: bold;
+   
+
+}
+.btn1,.btn2,.btn3,.btn4,.btn5{
+    background-color:palevioletred;
+    color:white;
+    border-radius: 5px 5px 5px 5px;   
+
+
+}
+
+.total1,.total2,.total3,.total4,.total5{
+    padding-left:74em;
+    margin-top:-30px;
+    
+}
+.num1,.num2,.num3,.num4,.num5{
+    width:50px;
+    height:30px;
+    border-radius: 5px 5px 5px 5px;
+   
+}
+
+.hr{
+    margin:40px;
+
+}
+.gt{
+        padding:123px;
+        color:palevioletred;
+        font-size:20px;
+        font-weight: bold;
+        border-radius: 5px 5px 5px 5px;
+    }
+    
+.tx{
+    padding:150px;
+    color:palevioletred;
+    font-size:20px;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+
+
+}
+.st{
+    padding:133px;
+    color:palevioletred;
+    font-size:20px;
+    font-weight: bold;
+    width:50px;
+    height:30px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.num6,.num7,.num8{
+    border-radius: 5px 5px 5px 5px;
+}

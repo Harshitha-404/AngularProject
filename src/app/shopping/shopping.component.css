@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+    color:palevioletred;
+}
+
+.image{
+    padding:100px;
+    color:skyblue;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.product{
+    padding:90px;
+    color:skyblue;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.price{
+    padding:90px;
+    color:skyblue;
+    font-size:20px;
+    font-weight: bold;
+
+}
+
+.quantity{
+    padding:90px;
+    color:skyblue;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.total{
+
+    padding:150px;
+    color:skyblue;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.front .back{
+    color:skyblue;
+    height:12px;
+}
+
+

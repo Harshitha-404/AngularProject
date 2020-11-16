@@ -1,0 +1,50 @@
+.name ,.pass{
+    font-size:20px;
+    margin-top:50px;
+    color:palevioletred
+  
+
+}
+#n,#p{
+    height:20px;
+    margin-top:50px;
+    padding-left:90px;
+    border-radius: 5px 5px 5px 5px;
+    border-color:skyblue;
+    border-style: solid;
+    
+
+}
+.input{
+    padding-left: 30em;
+
+   
+}
+
+.name,#n{
+    margin-top:17em;
+  
+
+}
+
+.sub{
+    padding-left:42em;
+    margin-top:30px;
+   
+    
+}
+.id{
+    width:70px;
+    height:30px;
+    font-size: 20px;
+    font-family: 'Lakki Reddy', cursive; 
+    border-radius: 5px 5px 5px 5px;
+    border-color:skyblue;
+    border-style: solid;
+    
+}
+.id:hover{
+   background-color:lightgreen;
+   color:white;
+  
+}
