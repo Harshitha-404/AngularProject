@@ -28,6 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## FEWS PICS OF IT
 
-![Screenshot (445)](https://user-images.githubusercontent.com/70800409/102451793-375f5f00-405f-11eb-902c-f830eb31c6f9.png)
-![Screenshot (446)](https://user-images.githubusercontent.com/70800409/102451798-39c1b900-405f-11eb-9958-524e11c6d8b5.png)
-![Screenshot (447)](https://user-images.githubusercontent.com/70800409/102451808-3d554000-405f-11eb-86b2-65108d829f39.png)
+![Screenshot (445)](https://user-images.githubusercontent.com/70800409/102451978-902ef780-405f-11eb-8fdc-09c6367a4541.png)
+![Screenshot (444)](https://user-images.githubusercontent.com/70800409/102451985-93c27e80-405f-11eb-839f-24ec24c656e0.png)
+![Screenshot (447)](https://user-images.githubusercontent.com/70800409/102451993-96bd6f00-405f-11eb-8405-8259a54f2371.png)
+
